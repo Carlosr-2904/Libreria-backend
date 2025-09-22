@@ -8,7 +8,6 @@ API sencilla para gestionar libros de una librería. Provee endpoints CRUD para 
 - **Spring Boot** 3.5.6
 - **Maven**
 - **MySQL** 8.x
-- (Opcional) **Lombok** / **Springdoc OpenAPI**
 
 ---
 
